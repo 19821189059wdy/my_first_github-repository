@@ -1,0 +1,67 @@
+* [33mcommit 585164201b5144c79d977e9728d2bb883e6a0f63[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: Wu Douyun <19821189059@163.com>
+[31m|[m Date:   Thu Mar 19 17:21:11 2026 +0800
+[31m|[m 
+[31m|[m     resolve conflict
+[31m|[m   
+*   [33mcommit f13c89d5fe800f20fc80352d0285912be40bf038[m
+[32m|[m[33m\[m  Merge: b18f13f e780241
+[32m|[m [33m|[m Author: Wu Douyun <19821189059@163.com>
+[32m|[m [33m|[m Date:   Thu Mar 19 17:19:08 2026 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     resolve conflict
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit e7802415a7f34ec667cedf930cb1c8860b5f7992[m[33m ([m[1;32mconflict_branch[m[33m)[m
+[32m|[m [33m|[m Author: Wu Douyun <19821189059@163.com>
+[32m|[m [33m|[m Date:   Thu Mar 19 16:59:05 2026 +0800
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     modify README.md on conflict_branch
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit b18f13f2daa35d7c4e81144006e18da1ee089ff1[m
+[33m|[m[33m/[m  Author: Wu Douyun <19821189059@163.com>
+[33m|[m   Date:   Thu Mar 19 17:01:39 2026 +0800
+[33m|[m   
+[33m|[m       modify README on main
+[33m|[m   
+*   [33mcommit 30c43cdcca44a3f3785fc1e517f7c2da8ef710e2[m
+[34m|[m[35m\[m  Merge: 6d84f85 56ed01b
+[34m|[m [35m|[m Author: Wu Douyun <19821189059@163.com>
+[34m|[m [35m|[m Date:   Thu Mar 19 16:48:28 2026 +0800
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Merge branch 'newbranch'
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 56ed01b3dc40df84a8e0fc0235ba2f29f676b2a1[m[33m ([m[1;32mnewbranch[m[33m)[m
+[34m|[m [35m|[m Author: Wu Douyun <19821189059@163.com>
+[34m|[m [35m|[m Date:   Thu Mar 19 16:41:56 2026 +0800
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     print three times on newbranch
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 6d84f852fa5b358e205852aa2c4831763c6f07f7[m
+[35m|[m[35m/[m  Author: Wu Douyun <19821189059@163.com>
+[35m|[m   Date:   Thu Mar 19 16:47:39 2026 +0800
+[35m|[m   
+[35m|[m       update READEM.md on main
+[35m|[m 
+* [33mcommit e41e3856f1856f32228553a80e68de960e7ea3e2[m
+[35m|[m Author: Wu Douyun <19821189059@163.com>
+[35m|[m Date:   Thu Mar 19 16:31:50 2026 +0800
+[35m|[m 
+[35m|[m     change HelloWorld.java
+[35m|[m 
+* [33mcommit 08670d2893ce2b32f2cbec1a4ce08fde6f276609[m
+[35m|[m Author: Wu Douyun <19821189059@163.com>
+[35m|[m Date:   Thu Mar 19 16:30:50 2026 +0800
+[35m|[m 
+[35m|[m     change README.md
+[35m|[m 
+* [33mcommit 1ad6b7007d5e3fcae2d97794b81209b815d11ccc[m
+[35m|[m Author: Wu Douyun <19821189059@163.com>
+[35m|[m Date:   Thu Mar 19 16:23:12 2026 +0800
+[35m|[m 
+[35m|[m     add HelloWorld.java and updated READEME.md
+[35m|[m 
+* [33mcommit 92838b195897a80489762f39500999c548e8fc59[m
+  Author: Wu Douyun <19821189059@163.com>
+  Date:   Thu Mar 19 16:01:06 2026 +0800
+  
+      first commit: add README.md
